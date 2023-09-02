@@ -1,4 +1,4 @@
 patches/
 *.o
-demnu
+dmenu
 stest
